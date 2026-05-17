@@ -4,6 +4,10 @@ A professional-grade **Discounted Cash Flow (DCF) valuation tool** built with Re
 
 ![DCF Valuation Studio](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react) ![Recharts](https://img.shields.io/badge/Recharts-3.8-22B5BF?style=flat) ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat&logo=vite) ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 
+
+
+<img width="1900" height="922" alt="image" src="https://github.com/user-attachments/assets/e87bf761-1174-4531-92c0-c746ab0fc5dc" />
+
 ---
 
 ## Features
